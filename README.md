@@ -23,6 +23,7 @@
 
 Example output:
 
+'''
 [
   {
     "url": "https://example.com/startup123",
@@ -31,3 +32,4 @@ Example output:
     "founded": 2023
   }
 ]
+'''
