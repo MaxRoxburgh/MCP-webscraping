@@ -14,36 +14,11 @@
 5. Extracting and filtering the information using an LLM.
 6. Returning a structured list of results in **JSON format**.
 
-flowchart TD
-    A[User Input<br/>(Goal + Filter Criteria)] --> B[Gemini API<br/>Generate Search Queries]
-    B --> C[Search API<br/>(Google Custom Search, SerpAPI)]
-    C --> D[Fetch URLs]
-    D --> E[Web Scraper<br/>(Requests + BeautifulSoup or Playwright)]
-    E --> F[Web Page Content]
-    F --> G[Gemini API<br/>Summarize & Extract Info]
-    G --> H[Filtering Logic<br/>Based on User Criteria]
-    H --> I[Final JSON Output<br/>Relevant Items]
-
-    classDef system fill=#f0f9ff,stroke=#3b82f6,stroke-width=1px;
-    classDef model fill=#fefce8,stroke=#ca8a04,stroke-width=1px;
-    classDef data fill=#fef2f2,stroke=#dc2626,stroke-width=1px;
-
-    class A,B,G,H,I system;
-    class C,D,E data;
-    class F data;
-
-
 ## **MCP comparison module architecture**
 
-User → Python or Web UI → Vertex Agent 
-
-                             ↓
-                             
-           Tool Calls → Your Flask API (search_web, fetch_text, etc.)
-           
-                             ↓
-                             
-                   Returns → Agent processes results → Structured response
+1. User → Python or Web UI → Vertex Agent 
+2. Tool Calls → Flask API (search_web, fetch_text, etc.)
+3. Returns → Agent processes results → Structured response
 
 
 Example output:
