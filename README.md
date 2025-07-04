@@ -24,12 +24,21 @@
 Example output:
 
 `
-[
-  {
-    "url": "https://example.com/startup123",
-    "summary": "Startup123, founded in 2023, builds AI for carbon capture.",
-    "industry": "Climate Tech",
-    "founded": 2023
+  [
+  
+    {
+    
+      "url": "https://example.com/startup123",
+      
+      "summary": "Startup123, founded in 2023, builds AI for carbon capture.",
+      
+      "industry": "Climate Tech",
+      
+      "founded": 2023
+      
   }
-]`
+  
+  ]
+  
+`
 
