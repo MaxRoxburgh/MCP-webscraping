@@ -23,7 +23,7 @@
 
 Example output:
 
-'''
+`
 [
   {
     "url": "https://example.com/startup123",
@@ -31,5 +31,5 @@ Example output:
     "industry": "Climate Tech",
     "founded": 2023
   }
-]
-'''
+]`
+
