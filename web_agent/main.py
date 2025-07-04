@@ -1,6 +1,6 @@
 from search import generate_search_terms, search_google
 from scrape import scrape_text
-from analyze import summarize_and_filter
+from analyse import summarise_and_filter
 
 def run_agent(user_goal: str, filter_criteria: str) -> list[dict]:
     queries = generate_search_terms(user_goal)
