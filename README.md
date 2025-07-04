@@ -18,9 +18,13 @@
 ## **MCP comparison module architecture**
 
 `User → Python or Web UI → Vertex Agent 
+
                              ↓
+                             
            Tool Calls → Your Flask API (search_web, fetch_text, etc.)
+           
                              ↓
+                             
                    Returns → Agent processes results → Structured response
 `
 
