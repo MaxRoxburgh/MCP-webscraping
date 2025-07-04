@@ -8,12 +8,19 @@
 ## **Module architecture**
 
 You → main.py
+
        ↓
+       
    User Input: (Goal, Filter Criteria)
+   
        ↓
+       
    model.py → Gemini API
+   
      [Generate search queries]
+     
        ↓
+       
    search.py → Search API (Google CSE / SerpAPI/ Bing API)
      [Return list of URLs]
        ↓
