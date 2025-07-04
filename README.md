@@ -17,7 +17,8 @@
 
 ## **MCP comparison module architecture**
 
-`User → Python or Web UI → Vertex Agent 
+`
+User → Python or Web UI → Vertex Agent 
 
                              ↓
                              
