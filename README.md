@@ -7,43 +7,22 @@
 
 ## **Module architecture**
 
-You → main.py
-
-       ↓
-       
-   User Input: (Goal, Filter Criteria)
-   
-       ↓
-       
-   model.py → Gemini API
-   
-     [Generate search queries]
-     
-       ↓
-       
-   search.py → Search API (Google CSE / SerpAPI/ Bing API)
-     [Return list of URLs]
-       ↓
-   scrape.py → Requests + BeautifulSoup
-     [Scrape each URL’s main text content]
-       ↓
-   analyze.py → LLM API
-     [Summarize or extract relevant info]
-       ↓
-   Filtering Logic
-     [Match against user-defined criteria]
-       ↓
-   Final Output (JSON-style list of objects)
+1. Understanding a **user's goal and filtering criteria**.
+2. Generating **relevant search queries** using an LLM (e.g., Gemini).
+3. Searching the web and retrieving URLs using a **search API**.
+4. Scraping the content from those URLs.
+5. Extracting and filtering the information using an LLM.
+6. Returning a structured list of results in **JSON format**.
 
 
 ## **MCP comparison module architecture**
 
-User → Python or Web UI → Vertex Agent 
+`User → Python or Web UI → Vertex Agent 
                              ↓
            Tool Calls → Your Flask API (search_web, fetch_text, etc.)
                              ↓
                    Returns → Agent processes results → Structured response
-
+`
 
 
 Example output:
