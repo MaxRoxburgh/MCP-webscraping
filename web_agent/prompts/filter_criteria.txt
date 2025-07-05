@@ -1,0 +1,36 @@
+Acceptance criteria
+Include macroeconomic indicators such as:
+    GDP
+    Interest rates
+    Exchange rates
+    Inflation 
+
+Provide real estate market data, including:
+    Sale and rental prices (current and historical)
+    Market trends
+    Property ownership data
+    Rental rates
+
+Present demographic information:
+    Population
+    Income levels
+    Cost of living
+    Languages
+
+Detail the real estate industry:
+    Real estate and letting agencies
+    Top corporations/agents
+    Property listings
+
+Include infrastructure and services data:
+    Electricity prices
+    Fuel costs
+    Traffic data
+
+Provide news and analysis:
+    Up-to-date real estate and economic news (local and international)
+
+Outline regulations and risk factors:
+    Land ownership laws
+    Foreign investment regulations
+    Investment risk reports

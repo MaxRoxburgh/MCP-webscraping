@@ -1,8 +1,11 @@
 import requests
 from requests.exceptions import RequestException, Timeout
+import tiktoken
 
 
-def filter_broken_links(urls_list: list[dict]) -> list[dict]:
+def filter_broken_links(
+        urls_list: list[dict]
+) -> list[dict]:
     """
 
     """
@@ -44,3 +47,31 @@ def filter_broken_links(urls_list: list[dict]) -> list[dict]:
 
     print("\nLink check completed.")
     return valid_links
+
+def estimate_tokens(
+        text: str
+) -> int:
+    try:
+        # Not exact token length as doesn't have google doesn't disclose how they tokenise
+        encoding = tiktoken.encoding_for_model("gpt-3.5-turbo")
+        return len(encoding.encode(text))
+    except Exception as e:
+        print(f"<UNK> An unexpected error occurred for {text}: {e}")
+        print("Token estimation reverted to max length of string (overestimate)")
+        return len(text)
+
+def string_search_and_replace(
+        text: str,
+        replacement_strings_dict: dict[str, str]
+) -> str:
+    raise NotImplementedError('''
+    TODO: Implement functionality for taking a string and replacing placeholders with defined values
+    Example:
+        text = "I want to go to <COUNTRY> for <LENGTH> days"
+        replacement_strings_dict = {
+        "<COUNTRY>": "Poland",
+        "<LENGTH>": "ten"
+        }
+        
+        return "I want to go to Poland for ten days"
+    ''')

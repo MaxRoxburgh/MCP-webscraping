@@ -1,7 +1,9 @@
 import google.generativeai as genai
+import cache
 from config import GEMINI_API_KEY
 
 genai.configure(api_key=GEMINI_API_KEY)
+
 '''
 Pick the model to use, currently set to gemini-2.5-flash
 
@@ -16,8 +18,20 @@ Options include:
 
 model = genai.GenerativeModel("gemini-2.5-flash")
 
-def generate(prompt: str, context: str | None = None) -> str:
+def gemini_api_call(prompt: str, context: str | None = None) -> str:
     response = model.generate_content(prompt if not context else [context, prompt])
+    return response.text
+
+def generate(prompt: str, context: str | None = None) -> str:
+    key = cache.get_cache_key(prompt, context)
+
+    if key in cache:
+        print("Cache hit")
+        return cache[key]
+
+    print("Calling Gemini API")
+    response = gemini_api_call(prompt, context)
+    cache[key] = response
     return response.text
 
 # def generate_with_mcp(prompt):
