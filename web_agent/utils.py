@@ -64,14 +64,6 @@ def string_search_and_replace(
         text: str,
         replacement_strings_dict: dict[str, str]
 ) -> str:
-    raise NotImplementedError('''
-    TODO: Implement functionality for taking a string and replacing placeholders with defined values
-    Example:
-        text = "I want to go to <COUNTRY> for <LENGTH> days"
-        replacement_strings_dict = {
-        "<COUNTRY>": "Poland",
-        "<LENGTH>": "ten"
-        }
-        
-        return "I want to go to Poland for ten days"
-    ''')
+    for placeholder, replacement_string in replacement_strings_dict.items():
+        text = text.replace(placeholder, replacement_string)
+    return text
