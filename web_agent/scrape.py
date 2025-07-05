@@ -1,7 +1,12 @@
 import requests
 from bs4 import BeautifulSoup
 
-def scrape_text(url: str, timeout: int = 10) -> str:
+
+def scrape_text(
+        url: str,
+        timeout: int = 10
+) -> str:
+
     try:
         res = requests.get(url, timeout=timeout)
         soup = BeautifulSoup(res.text, "html.parser")

@@ -48,6 +48,7 @@ def filter_broken_links(
     print("\nLink check completed.")
     return valid_links
 
+
 def estimate_tokens(
         text: str
 ) -> int:
@@ -59,6 +60,7 @@ def estimate_tokens(
         print(f"<UNK> An unexpected error occurred for {text}: {e}")
         print("Token estimation reverted to max length of string (overestimate)")
         return len(text)
+
 
 def string_search_and_replace(
         text: str,

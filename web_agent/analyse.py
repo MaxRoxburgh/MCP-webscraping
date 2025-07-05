@@ -1,6 +1,11 @@
 from model import generate
 
-def summarise_and_filter(text: str, criteria: str) -> str:
+
+def summarise_and_filter(
+        text: str,
+        criteria: str
+) -> str:
+
     prompt = """
     Based on the following criteria: 
     <criteria>
