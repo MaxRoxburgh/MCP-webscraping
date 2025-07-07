@@ -34,3 +34,8 @@ Example output:
 >]
 
 
+Go get yourself the relevant API keys:
+Gemini API key:               https://aistudio.google.com/app/apikey
+Custom Search JSON API key:   https://developers.google.com/custom-search/v1/overview
+
+
