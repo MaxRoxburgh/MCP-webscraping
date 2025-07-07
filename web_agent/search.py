@@ -5,12 +5,12 @@ import requests
 
 def generate_search_terms(
         user_prompt: str,
-        delimiter: str = "semicolon"
+        delimiter: str = ";"
 ): #-> list[str]:
 
     # Rewrite this for better results
     prompt = f'''
-    Generate a list large list of specific search queries based on this prompt:
+    Generate a list of specific search queries based on this prompt: (~ 15-20 terms)
  
     {user_prompt}
     __________________________________________________________________________
@@ -18,8 +18,7 @@ def generate_search_terms(
     Don't have any extra text before or after this list.
     '''
     raw = generate(prompt)
-    return raw
-    # return [line.strip(";") for line in raw.splitlines() if line.strip()]
+    return [line for line in raw.split(delimiter)]
 
 
 def search_google(

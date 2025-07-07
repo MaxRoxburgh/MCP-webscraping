@@ -4,8 +4,8 @@ import cache
 
 def gemini_api_call(
         prompt: str,
-        model_name: str = "gemini-2.5-flash",
-        context: str | None = None
+        context: str | None = None,
+        model_name: str = "gemini-2.5-flash"
 ) -> str:
 
     from config import GEMINI_API_KEY
@@ -20,7 +20,7 @@ def generate(
         context: str | None = None
 ) -> str:
 
-    key = cache.Cache.get_cache_key(prompt, context)
+    key = cache.get_cache_key(prompt, context)
 
     if key in cache.Cache:
         print("Cache hit")
