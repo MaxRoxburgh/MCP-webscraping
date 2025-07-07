@@ -1,5 +1,6 @@
 from model import generate
 import requests
+import cache
 # from config import SEARCH_API_KEY, SEARCH_ENGINE_ID
 
 
@@ -14,6 +15,7 @@ def generate_search_terms(
  
     {user_prompt}
     __________________________________________________________________________
+    Make sure to have at least one query per point.
     Return only the list of queries seperated by {delimiter}.
     Don't have any extra text before or after this list.
     '''
@@ -26,14 +28,23 @@ def search_google(
         num_results: int = 5
 ) -> list[str]:
 
-    url = "https://www.googleapis.com/customsearch/v1"
-    params = {
-        "key": SEARCH_API_KEY,
-        "cx": SEARCH_ENGINE_ID,
-        "q": query,
-        "num": num_results
-    }
-    res = requests.get(url, params=params).json()
+    key = cache.get_cache_key(query)
+    if key in cache.Cache:
+        # print("Cache hit")
+        res = cache.Cache[key]
+
+    else:
+        from config import SEARCH_API_KEY, SEARCH_ENGINE_ID
+        url = "https://www.googleapis.com/customsearch/v1"
+        params = {
+            "key": SEARCH_API_KEY,
+            "cx": SEARCH_ENGINE_ID,
+            "q": query,
+            "num": num_results
+        }
+        res = requests.get(url, params=params).json()
+        cache.Cache[key] = res
+
     return [item["link"] for item in res.get("items", [])]
 
 

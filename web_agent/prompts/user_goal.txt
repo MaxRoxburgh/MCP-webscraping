@@ -1,3 +1,4 @@
+
 Find <COUNTRY>-specific data for the following categories related to the property market. For each category, provide a variety of queries that would be effective for sourcing raw data, reports, and news.
 
 Categories:

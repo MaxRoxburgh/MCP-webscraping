@@ -17,7 +17,8 @@ def gemini_api_call(
 
 def generate(
         prompt: str,
-        context: str | None = None
+        context: str | None = None,
+        model_name: str = "gemini-2.5-flash"
 ) -> str:
 
     key = cache.get_cache_key(prompt, context)
@@ -27,7 +28,7 @@ def generate(
         return cache.Cache[key]
 
     print("Calling Gemini API")
-    response = gemini_api_call(prompt, context)
+    response = gemini_api_call(prompt, context, model_name)
     cache.Cache[key] = response
     return response
 

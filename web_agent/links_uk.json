@@ -1,0 +1,513 @@
+[
+    {
+        "name": "BBC",
+        "description": "A news outlet providing up-to-date reports and analysis on economic news, particularly focusing on the cost of living crisis, fuel prices, and inflation in the UK.",
+        "type": "news outlet",
+        "link": "https://www.bbc.co.uk/news/business-60375568",
+        "summary": "The website extract reports on record-high fuel prices and surging inflation in the UK, detailing the impact on consumers and linking the price rises to global oil market volatility, the Russia-Ukraine conflict, and supply-demand imbalances, along with other economic news."
+    },
+    {
+        "name": "Office for National Statistics (ONS)",
+        "description": "Official source for UK economic and social statistics, including inflation, house prices, and cost of living data.",
+        "type": "government website",
+        "link": "https://www.ons.gov.uk/economy/inflationandpriceindices",
+        "summary": "This website provides comprehensive official data and analysis on UK macroeconomic indicators, focusing heavily on inflation (consumer and producer prices), house price inflation, and private rental prices. It offers historical time series, analytical tools, and statistics related to the cost of living and housing market within the United Kingdom."
+    },
+    {
+        "name": "Cost of Living Index by City",
+        "description": "Provides continuously updated global cost of living indices for various cities, covering rent, groceries, and purchasing power.",
+        "type": "international database",
+        "link": "https://www.numbeo.com/cost-of-living/rankings_current.jsp",
+        "summary": "A global database for current and historical cost of living data, including rent and purchasing power, for cities worldwide."
+    },
+    {
+        "name": "Urban Jungle",
+        "description": "A company primarily offering home insurance services.",
+        "type": "private sector report",
+        "link": "https://myurbanjungle.com/explore/blog/a-guide-to-average-rent-prices-in-the-uk-2023/",
+        "summary": "The extract is a blog post discussing average rent prices in UK cities in 2023, analyzing trends, affordability issues for renters, and the impact of inflation, supply/demand imbalances, and high interest rates on the UK rental and housing market."
+    },
+    {
+        "name": "Wikipedia (Regions of England)",
+        "description": "A comprehensive historical and administrative overview of the regions of England.",
+        "type": "international database",
+        "link": "https://en.wikipedia.org/wiki/Regions_of_England",
+        "summary": "The website provides a detailed account of the evolution, functions, and administrative changes of England's highest-tier sub-national divisions, tracing their history from Anglo-Saxon territories to modern combined authorities and their use for statistical and governmental purposes."
+    },
+    {
+        "name": "UK House Price Index",
+        "description": "A government website providing official UK house price data and trends.",
+        "type": "government website",
+        "link": "https://landregistry.data.gov.uk/app/ukhpi/",
+        "summary": "Offers official UK House Price Index data, including average prices, monthly and yearly changes, and historical data from 1968. It provides tools for searching, downloading, and querying house price data."
+    },
+    {
+        "name": "Office for National Statistics (ONS)",
+        "description": "Provides official UK economic and social statistics, including GDP and Census data.",
+        "type": "government website",
+        "link": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpmonthlyestimateuk/december2024",
+        "summary": "The website presents detailed UK Gross Domestic Product (GDP) data for December 2024, showing a 0.4% monthly growth, primarily from the services sector. It also reports 0.1% GDP growth for the three months to December 2024 and an estimated 0.8% annual growth for 2024 compared to 2023. The site also references Census 2021 data."
+    },
+    {
+        "name": "Statista",
+        "description": "A comprehensive data and market intelligence platform offering reports, insights, and forecasts across diverse industries, markets, and countries.",
+        "type": "international database",
+        "link": "https://www.statista.com/statistics/1345632/buy-to-let-yield-uk-by-property-type/",
+        "summary": "Statista is a subscription-based data and market research platform providing extensive reports, forecasts, and statistics on global industries, including detailed real estate market data, consumer insights, and economic indicators, with full access requiring a paid account."
+    },
+    {
+        "name": "Census 2021 Data and Analysis",
+        "description": "Official statistical bulletin providing model-based income estimates for small local areas (MSOAs) in England and Wales.",
+        "type": "government website",
+        "link": "https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/smallareamodelbasedincomeestimates/financialyearending2020",
+        "summary": "Analysis of mean household disposable income across Middle layer Super Output Areas (MSOAs) in England and Wales for FYE 2020, highlighting significant regional income disparities, particularly between London and areas in Yorkshire and the Humber."
+    },
+    {
+        "name": "AEW UK REIT plc",
+        "description": "A corporate website for a Real Estate Investment Trust (REIT) offering news updates and providing legal and investor information.",
+        "type": "REIT corporate website",
+        "link": "https://www.aewukreit.com/site-services/rss-feeds",
+        "summary": "The website for AEW UK REIT plc is focused on providing information about this specific real estate investment trust. It offers company news through an RSS feed and email alerts, alongside extensive legal disclaimers regarding the distribution and sale of its securities in various jurisdictions. It does not provide general macroeconomic indicators, comprehensive real estate market data, demographic information, or listings beyond its own corporate activities, making it largely unsuited for directly gathering the broad data points specified in the criteria."
+    },
+    {
+        "name": "Nationwide House Price Indices",
+        "description": "Provides access to accurate historical house price indices, high-resolution graphs, and visual data for research and reporting.",
+        "type": "private sector report",
+        "link": "https://www.nationwidehousepriceindex.co.uk/",
+        "summary": "This website offers historical house price data and trends through its Nationwide House Price Indices, published by Nationwide Building Society. It provides visual data and reports for research purposes, focusing on real estate market activity."
+    },
+    {
+        "name": "UK Generational Housing Trends",
+        "description": "An article analyzing official UK statistics on the significant decline in home ownership among younger generations and the rise of private renting, highlighting financial implications and socio-economic factors.",
+        "type": "news outlet",
+        "link": "https://www.theguardian.com/money/2020/feb/10/home-ownership-ons-rent",
+        "summary": "This article details findings from the Office for National Statistics (ONS) showing a substantial collapse in home ownership for adults aged 35-44 in England, who are now three times more likely to rent privately than 20 years ago. It attributes this trend to surging house prices and stagnant wage growth, highlighting the severe financial challenges this poses for future retirement and the potential escalation of the UK's housing benefit bill, while noting increased home ownership among the over-65s."
+    },
+    {
+        "name": "Office for National Statistics (ONS)",
+        "description": "An official government website providing statistical data and analysis from the Census 2021 for England and Wales.",
+        "type": "government website",
+        "link": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/housingenglandandwales/census2021",
+        "summary": "The website provides detailed Census 2021 data on housing in England and Wales, covering accommodation types, ownership and rental tenure, room and bedroom counts, occupancy ratings, and central heating methods. It also highlights regional variations and changes from 2011 data."
+    },
+    {
+        "name": "Nationwide Building Society",
+        "description": "Website featuring Nationwide House Price Indices and related disclaimers.",
+        "type": "private sector report",
+        "link": "https://www.nationwidehousepriceindex.co.uk/resources/",
+        "summary": "This website provides the Nationwide House Price Indices, detailing their preparation, limitations, and regulatory compliance from Nationwide Building Society."
+    },
+    {
+        "name": "LinkedIn",
+        "description": "A professional networking platform hosting industry news, analysis, and reports.",
+        "type": "news outlet",
+        "link": "https://www.linkedin.com/posts/simon-rubinsohn-43124162_uk-residential-market-survey-activity-7206908782616924161-0V2B",
+        "summary": "This LinkedIn feed provides recent news and analysis on the UK residential property market, sourced from entities like RICS, real estate firms, and mortgage providers. It covers sales and rental market trends, including buyer activity, pricing, demand-supply dynamics, and affordability. Key macroeconomic indicators such as interest rates, mortgage rates, and inflation are discussed in relation to their impact on the housing market."
+    },
+    {
+        "name": "GOV.UK",
+        "description": "Official government portal providing guidance, data, reports, and news from UK public bodies and departments.",
+        "type": "government website",
+        "link": "https://www.gov.uk/government/statistical-data-sets/live-tables-on-house-building",
+        "summary": "This extract from GOV.UK provides official data tables and reports on UK housing supply, new build dwellings, and house building statistics, including information on data formats and source transitions to the Office for National Statistics."
+    },
+    {
+        "name": "National Statistical Office Website",
+        "description": "Provides official macroeconomic indicators and census data from a government source.",
+        "type": "government website",
+        "link": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/timeseries/ihyp/pn2",
+        "summary": "This website offers up-to-date and historical official economic data, specifically focusing on GDP estimates and national accounts, alongside analysis derived from census information."
+    },
+    {
+        "name": "GOV.UK",
+        "description": "A government website providing access to official statistics and data, specifically focusing on affordable housing supply.",
+        "type": "government website",
+        "link": "https://www.gov.uk/government/statistical-data-sets/live-tables-on-affordable-housing-supply",
+        "summary": "This website extract from GOV.UK offers detailed, updated data tables and reports related to affordable housing supply, including starts and completions, from various funding sources."
+    },
+    {
+        "name": "J.P. Morgan",
+        "description": "A global financial services firm offering investment banking, private banking, asset management, and corporate banking solutions to individuals, corporations, and institutions worldwide, alongside market-leading research and analytics.",
+        "type": "etc. (financial services firm/investment bank)",
+        "link": "https://www.jpmorgan.com/insights/global-research/outlook/market-outlook",
+        "summary": "The website features J.P. Morgan's global economic and market outlook for 2025, discussing macroeconomic trends like inflation, interest rates, and geopolitical risks, particularly focusing on the U.S. election's impact on global equities, currencies, and commodities."
+    },
+    {
+        "name": "HEPI (Higher Education Policy Institute) Report 166",
+        "description": "Report on the cost pressures and consequences in Purpose-Built Student Accommodation in the UK.",
+        "type": "think tank",
+        "link": "https://www.hepi.ac.uk/2023/10/26/student-rents-now-swallow-up-virtually-all-of-the-of-the-average-maintenance-loan-as-market-reaches-crisis-point-in-affordability/",
+        "summary": "This report from Unipol and HEPI details a 14.6% average increase in UK student accommodation rents over two years, now consuming nearly 100% of the average maintenance loan. It highlights an affordability crisis driven by rising energy, construction, staff, and borrowing costs, as well as planning barriers. The report excludes London and Edinburgh, focusing on 10 regional cities, identifying Bristol, Exeter, and Glasgow as most expensive, and Liverpool, Cardiff, and Sheffield as most affordable. It proposes policy recommendations including student maintenance system reform, financial support, and measures to facilitate more supply."
+    },
+    {
+        "name": "Office for National Statistics (ONS)",
+        "description": "An official UK government website providing comprehensive statistical data and analysis on a wide range of topics, including property prices, rental trends, housing affordability, demographics, and social indicators for the UK.",
+        "type": "government website",
+        "link": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing",
+        "summary": "A UK government statistical resource offering detailed data and analysis on housing, population, income levels, and socio-economic trends across the United Kingdom."
+    },
+    {
+        "name": "BBC",
+        "description": "A public service broadcaster providing news and analysis on current events, economics, and other topics.",
+        "type": "news outlet",
+        "link": "https://www.bbc.co.uk/news/business-61803496",
+        "summary": "The article reports on record high petrol and diesel prices in the UK, driven by the Ukraine war, and their impact on the cost of living. It details government measures to help households and calls from motoring organisations for further tax cuts."
+    },
+    {
+        "name": "Office for National Statistics (ONS)",
+        "description": "A government website providing detailed methodologies and data for Gross Domestic Product (GDP) measurements in the UK.",
+        "type": "government website",
+        "link": "https://blog.ons.gov.uk/2022/12/12/what-is-gdp-and-how-do-we-measure-it/",
+        "summary": "This extract details how the UK's GDP is measured by the ONS, covering different calculation methods, reporting frequencies, and data revision processes."
+    },
+    {
+        "name": "LinkedIn",
+        "description": "A professional networking platform hosting posts and links to reports from real estate and economic entities.",
+        "type": "etc.",
+        "link": "https://www.linkedin.com/posts/simon-rubinsohn-43124162_uk-residential-market-survey-activity-7194228688505192448-Gjx8",
+        "summary": "Features various posts from organizations like RICS, Fine & Country, and Cluttons, providing updates and surveys on UK residential sales, rental markets, interest rates, and house prices."
+    },
+    {
+        "name": "Real Business Rescue",
+        "description": "A UK-based private firm providing advice and support for company directors and businesses facing financial distress, insolvency, and debt-related issues.",
+        "type": "private sector report",
+        "link": "https://www.realbusinessrescue.co.uk/advice-hub/uk-retail-rental-prices",
+        "summary": "This extract provides an analysis of UK commercial retail rental prices per square foot across various cities and London boroughs, discussing market trends, footfall recovery, and factors impacting retail businesses like energy costs and online sales. It also promotes the website's services for businesses in financial difficulty."
+    },
+    {
+        "name": "UK Letting Agencies Directory",
+        "description": "A comprehensive directory of UK-based letting agencies, providing rental services for various property types to landlords and tenants, along with customer reviews.",
+        "type": "real estate portal",
+        "link": "https://www.uklettingagent.co.uk/",
+        "summary": "A UK real estate portal connecting landlords and tenants with letting agencies, featuring agency listings, reviews, and advertising services."
+    },
+    {
+        "name": "Office for National Statistics",
+        "description": "Official source for UK economic and social statistics, including inflation and census data.",
+        "type": "government website",
+        "link": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/may2025",
+        "summary": "Publishes current and historical data on consumer price inflation (CPIH and CPI) for the UK, detailing rates, indices, and sectoral contributions. Also references Census 2021 data."
+    },
+    {
+        "name": "GOV.UK",
+        "description": "A UK government website providing official information on properties in England and Wales, allowing users to search, view, and obtain copies of property summaries, title plans, and title registers, along with links to flood risk reports.",
+        "type": "government website",
+        "link": "https://www.gov.uk/search-property-information-land-registry",
+        "summary": "Official UK government portal for property and land information in England and Wales."
+    },
+    {
+        "name": "Reddit",
+        "description": "A social media platform and forum where users can post questions, share content, and engage in discussions on various topics.",
+        "type": "social media platform",
+        "link": "https://www.reddit.com/r/HousingUK/comments/zovib2/what_is_the_best_property_listing_website_in_the/",
+        "summary": "The extract shows a user's query within a community discussing the hierarchy and market presence of major UK real estate portals (Right Move, Zoopla, On The Market, Prime Location), suggesting user-generated content and discussions related to the real estate industry."
+    },
+    {
+        "name": "J.P. Morgan",
+        "description": "A global financial services firm providing banking, investment solutions, corporate and institutional services, and market insights.",
+        "type": "financial institution website",
+        "link": "https://www.jpmorgan.com/insights/global-research/currencies/currency-volatility-dollar-strength",
+        "summary": "The website extract offers comprehensive analysis of macroeconomic indicators, including detailed currency forecasts (USD, EUR, GBP, JPY), inflation trends, and central bank interest rate policies from the Fed, ECB, and BoE, alongside insights into global economic growth and commodity prices. While it covers general economic news and analysis, it lacks specific data for real estate market trends, property prices, demographics, real estate industry information, infrastructure costs, or real estate-specific regulations and risks, making it largely irrelevant for the specified real estate criteria."
+    },
+    {
+        "name": "Cost of Living Index by City",
+        "description": "Provides comparative data on cost of living, including rent, groceries, and restaurant prices, across various cities worldwide.",
+        "type": "international database",
+        "link": "https://www.numbeo.com/cost-of-living/rankings.jsp",
+        "summary": "An international database offering historical and current cost of living indices by city, covering categories such as rent, groceries, restaurant prices, and local purchasing power, allowing for global comparisons."
+    },
+    {
+        "name": "Moody's",
+        "description": "A global provider of credit ratings, financial insights, risk management solutions, and extensive economic and market data.",
+        "type": "Financial Intelligence Provider",
+        "link": "https://www.moodys.com/",
+        "summary": "Moody's offers data-driven solutions and expert analysis on credit markets, economic trends, and various risks, including commercial real estate. It provides macroeconomic data, investment research, and insights into current events affecting global credit markets to help clients make informed financial decisions."
+    },
+    {
+        "name": "FeedSpot Reader",
+        "description": "A platform aggregating and listing RSS feeds from various news sources and blogs.",
+        "type": "etc.",
+        "link": "https://rss.feedspot.com/uk_property_rss_feeds/",
+        "summary": "Provides a curated list of top UK property RSS feeds for real estate news, market trends, and industry insights."
+    },
+    {
+        "name": "NAIOP",
+        "description": "A leading commercial real estate development association connecting developers, owners, investors, and brokers across North America.",
+        "type": "think tank",
+        "link": "https://www.naiop.org/",
+        "summary": "NAIOP provides comprehensive resources for commercial real estate professionals, including market forecasts (e.g., U.S. office space demand), educational programs, and industry events like CRE.Converge. It offers news and analysis on commercial real estate trends, regulations, and related economic indicators through its blog, Market Share, and Research Foundation."
+    },
+    {
+        "name": "Ofgem Website",
+        "description": "Monitors and analyzes the wholesale gas and electricity markets in Great Britain, providing data, indicators, and assessments on prices, liquidity, and competition to protect consumers and promote a sustainable energy system.",
+        "type": "regulatory body",
+        "link": "https://www.ofgem.gov.uk/energy-data-and-research/data-portal/wholesale-market-indicators",
+        "summary": "Provides wholesale energy market data and analysis for Great Britain, including gas and electricity prices and market conditions, from a regulatory body."
+    },
+    {
+        "name": "Government of Jersey",
+        "description": "Provides information and public services for the Island of Jersey.",
+        "type": "government website",
+        "link": "https://www.gov.je/Home/RentingBuying/BuyersGuide/Pages/EstateAgents.aspx",
+        "summary": "An official government website for Jersey that lists real estate and letting agencies operating on the island, specifically for property transactions."
+    },
+    {
+        "name": "Related",
+        "description": "A corporate website detailing the projects, initiatives, and news of a prominent real estate development company.",
+        "type": "private sector report",
+        "link": "https://www.related.com/",
+        "summary": "Corporate website of a large real estate development firm, showcasing their diverse portfolio of residential, commercial, and mixed-use projects across various locations. It includes company-specific news, project updates, and details on their community engagement and affordable housing initiatives. It lacks broader real estate market data, macroeconomic indicators, demographic statistics, or regulatory information."
+    },
+    {
+        "name": "GOV.UK",
+        "description": "Provides official statistics and commentary on living standards and household income in the UK, focusing on Households Below Average Income (HBAI) data, including historical trends, methodological updates, and related government support schemes.",
+        "type": "government website",
+        "link": "https://www.gov.uk/government/collections/households-below-average-income-hbai--2",
+        "summary": "Official UK government website offering detailed statistics and reports on household income, poverty levels (HBAI), and related policy impacts, with data available via Stat-Xplore."
+    },
+    {
+        "name": "FeedSpot Reader",
+        "description": "A platform providing a news reader, brand monitoring, and an RSS combiner, specifically offering a curated list of real estate RSS feeds from various sources.",
+        "type": "international database",
+        "link": "https://rss.feedspot.com/real_estate_rss_feeds/",
+        "summary": "FeedSpot Reader aggregates and provides access to a comprehensive collection of real estate news and industry RSS feeds, allowing users to subscribe and monitor content from multiple global sources in one place."
+    },
+    {
+        "name": "Think Plutus",
+        "description": "A website providing a comprehensive historical timeline of UK interest rates from 1979 to 2024, detailing key economic events, government policies, and their impact on inflation and mortgages.",
+        "type": "private sector report",
+        "link": "https://thinkplutus.com/uk-interest-rate-history/",
+        "summary": "This site offers a detailed history of UK interest rate changes and their drivers from 1979 to present, focusing on implications for the economy, inflation, and homebuyers. It is published by a mortgage advisory firm."
+    },
+    {
+        "name": "Office for National Statistics (ONS)",
+        "description": "This website provides official statistical data and analysis, specifically focusing on the Wealth and Assets Survey and Census data for Great Britain.",
+        "type": "government website",
+        "link": "https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/distributionofindividualtotalwealthbycharacteristicingreatbritain/april2018tomarch2020",
+        "summary": "The website presents a statistical bulletin on household total wealth in Great Britain from April 2018 to March 2020, detailing wealth distribution and disparities by region, age, gender, and other demographics, highlighting the significant role of private pensions and property."
+    },
+    {
+        "name": "UK Property Search Portal",
+        "description": "A property portal for saving listings, setting alerts, tracking enquiries, and viewing historical sold data with photos and floorplans. It offers home valuations, local market insights, current average house prices, and advice on home comfort and energy efficiency for UK residential and commercial properties.",
+        "type": "real estate portal",
+        "link": "https://www.rightmove.co.uk/",
+        "summary": "A UK real estate portal providing property search, historical sales data, market insights, and valuation services for residential and commercial properties, along with home improvement advice."
+    },
+    {
+        "name": "Numbeo",
+        "description": "A tool that allows users to compare the affordability and everyday expenses of two cities or countries side-by-side.",
+        "type": "international database",
+        "link": "https://www.numbeo.com/cost-of-living/comparison.jsp",
+        "summary": "It provides a cost of living index and detailed expense breakdowns to help users understand purchasing power differences and make informed relocation or budgeting decisions."
+    },
+    {
+        "name": "NatWest",
+        "description": "A financial institution's guide explaining rental yield for buy-to-let property investors.",
+        "type": "financial institution website",
+        "link": "https://www.natwest.com/mortgages/buy-to-let/buy-to-let-mortgage-guide/why-rental-yield-is-so-important.html",
+        "summary": "The article defines gross and net rental yield, provides calculation methods and examples, discusses factors affecting yield (capital growth, costs, tenant issues), identifies typical and high average rental yields in the UK (5-8%), and advises on balancing yield with other investment considerations."
+    },
+    {
+        "name": "Office for National Statistics (ONS)",
+        "description": "Provides national and subnational mid-year population estimates for England and Wales by administrative area, age and sex.",
+        "type": "government website",
+        "link": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationestimatesforenglandandwales/mid2023",
+        "summary": "The extract details the mid-2023 population estimates for England and Wales, showing the largest annual increase in 75 years, primarily driven by net international migration. It includes data on births, deaths, and internal migration."
+    },
+    {
+        "name": "Numbeo",
+        "description": "Numbeo is the world's largest crowdsourced global database providing insights into cost of living, housing price indicators, quality of life, and various other key statistics.",
+        "type": "international database",
+        "link": "https://www.numbeo.com/cost-of-living/",
+        "summary": "Numbeo is an online crowdsourced platform offering comprehensive global data on cost of living, housing price indicators, quality of life metrics, and various economic statistics, facilitating systematic research and comparison."
+    },
+    {
+        "name": "UK Housing Starts and Completions Data",
+        "description": "Website providing quarterly UK totals for newly built dwellings by compiling data from devolved governments.",
+        "type": "government website",
+        "link": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/ukhousebuildingpermanentdwellingsstartedandcompleted",
+        "summary": "A UK government statistical release offering timely quarterly data on housing starts and completions across England, Wales, Scotland, and Northern Ireland to indicate housing supply."
+    },
+    {
+        "name": "BBC",
+        "description": "A news website providing updates on economic, social, and consumer affairs.",
+        "type": "news outlet",
+        "link": "https://www.bbc.com/news/articles/cn7zdzz83y0o",
+        "summary": "The article reports on falling energy prices in England, Scotland, and Wales from July, driven by a drop in wholesale gas. It highlights regulator Ofgem's price cap, potential savings for consumers, and the broader impact on household finances, consumer debt, inflation, and retail sales, with advice for customers to shop for fixed deals."
+    },
+    {
+        "name": "Gilbane",
+        "description": "One of the largest privately held and family-owned construction and real estate development firms, offering construction, facilities management, real estate development, property management, and consulting services globally.",
+        "type": "private sector company website",
+        "link": "https://www.gilbaneco.com/",
+        "summary": "This website extract provides an overview of Gilbane, a long-standing, global private sector firm specializing in construction and real estate development and management services."
+    },
+    {
+        "name": "LinkedIn",
+        "description": "A professional networking platform hosting industry news, reports, and discussions.",
+        "type": "news outlet",
+        "link": "https://www.linkedin.com/posts/simon-rubinsohn-43124162_uk-residential-market-survey-activity-7305876019108859904-GUTB",
+        "summary": "The site features analysis from the RICS Chief Economist on the February Residential Market Survey, detailing a loss of housing market momentum due to stamp duty changes and inflation concerns, but anticipating a rebound in sales and prices. It also notes increased stock, subdued new build indicators, and rising rental expectations. Another post discusses real estate investment strategies."
+    },
+    {
+        "name": "Statista",
+        "description": "Statista is a global data and business intelligence platform providing comprehensive market and industry insights, trend reports, company rankings, consumer data, and country-specific statistics for over 170 industries and 190 countries, including full-service market research and analytics.",
+        "type": "international database",
+        "link": "https://www.statista.com/statistics/294729/uk-population-by-region/",
+        "summary": "A global data and business intelligence platform offering extensive statistical data, market forecasts, and insights across diverse industries and countries to support research and strategic decisions."
+    },
+    {
+        "name": "UK Government Statistics",
+        "description": "A UK government website providing official macroeconomic data and analysis for the United Kingdom.",
+        "type": "government website",
+        "link": "https://www.ons.gov.uk/economy/grossdomesticproductgdp",
+        "summary": "The site offers comprehensive monthly, quarterly, and annual GDP estimates for the UK, including regional and industry breakdowns, investment statistics, and analysis of economic trends and inflation."
+    },
+    {
+        "name": "Government Data Archive",
+        "description": "A government website providing access to various public datasets, including historical versions, under an open license.",
+        "type": "government website",
+        "link": "https://www.ons.gov.uk/economy/regionalaccounts/grossdisposablehouseholdincome/datasets/regionalgrossdisposablehouseholdincomelocalauthoritiesbyitl1region",
+        "summary": "An official government platform offering a repository of public data, including historical datasets, available under the Open Government Licence v3.0, indicating it's a source for official statistics."
+    },
+    {
+        "name": "Unbiased",
+        "description": "Connects users with qualified financial and mortgage advisers.",
+        "type": "financial advisory platform",
+        "link": "https://www.unbiased.co.uk/discover/mortgages-property/buying-a-home/zoopla-vs-rightmove-what-is-the-difference",
+        "summary": "Unbiased helps users find financial and mortgage advisers, providing impartial advice, tools, and related financial information."
+    },
+    {
+        "name": "BBC News",
+        "description": "A major UK-based news outlet providing up-to-date information on economic news, energy prices, and various current events.",
+        "type": "news outlet",
+        "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo",
+        "summary": "The provided extract details the energy price cap for gas and electricity in England, Wales, and Scotland, including current and future rates, standing charges, payment methods, and government support schemes. It also includes a diverse set of unrelated news headlines."
+    },
+    {
+        "name": "Statista",
+        "description": "A comprehensive data and market intelligence platform offering statistics, reports, and insights across various industries, countries, and topics.",
+        "type": "international database",
+        "link": "https://www.statista.com/statistics/294681/uk-population-growth-by-region/",
+        "summary": "Statista is a leading international database and market intelligence platform providing extensive data, reports, forecasts, and insights across diverse industries, countries, and socio-economic topics, aiding in research and strategic decision-making."
+    },
+    {
+        "name": "NerdWallet UK",
+        "description": "A financial advice website that helps users find and compare financial products, offering guidance on topics like renting, buying, and mortgages.",
+        "type": "financial advice website",
+        "link": "https://www.nerdwallet.com/uk/mortgages/cheapest-rent-uk/",
+        "summary": "The provided text analyzes current and historical rental prices across the UK, detailing the cheapest and most expensive cities and regions. It highlights affordability based on income, discusses year-on-year rent increases, and provides insights into the renting vs. buying debate, including expert forecasts for future rental trends."
+    },
+    {
+        "name": "Office for National Statistics (ONS)",
+        "description": "Provides official statistics and analysis on private rent and house price inflation across the UK.",
+        "type": "government website",
+        "link": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/privaterentandhousepricesuk/march2024",
+        "summary": "This website provides the latest official statistics on UK private rent inflation (PIPR) and house price inflation (UK HPI) up to February 2024. It includes average rent and house price figures, annual percentage changes, and regional breakdowns for England, Wales, Scotland, and Northern Ireland, with historical data."
+    },
+    {
+        "name": "Knight Knox",
+        "description": "The website offers property investment opportunities in the UK (including assisted living and off-market properties) and Dubai, providing insights into UK rental market trends and buy-to-let investments.",
+        "type": "real estate portal",
+        "link": "https://knightknox.com/property-investment-advice/average-rental-yield-uk/",
+        "summary": "Knight Knox focuses on property investments, specifically buy-to-let in the UK, citing an average rental yield of 4.75% and projected rental value increases. It also lists various properties for sale and discusses the growing demand for rental housing in the UK."
+    },
+    {
+        "name": "Statista",
+        "description": "A comprehensive platform providing data, reports, and insights across various industries, countries, and social topics, including market forecasts and consumer behavior.",
+        "type": "international database",
+        "link": "https://www.statista.com/statistics/306648/inflation-rate-consumer-price-index-cpi-united-kingdom-uk/",
+        "summary": "The extract details UK inflation rates and the Cost of Living Crisis, including energy price caps and their socio-economic impact. It indicates Statista offers extensive data on macroeconomic indicators like GDP, inflation, and labor markets, government finances, and country-specific insights, providing economic news and analysis relevant to market conditions."
+    },
+    {
+        "name": "Office for National Statistics (ONS)",
+        "description": "Official source for UK house price statistics and analysis.",
+        "type": "government website",
+        "link": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/housepriceindex/december2023",
+        "summary": "The website provides the latest UK House Price Index data for December 2023, showing a provisional 1.4% decrease in average UK house prices to \u00a3285,000 year-on-year. It includes regional breakdowns for England, Wales, Scotland, and Northern Ireland, and outlines upcoming changes to the release format."
+    },
+    {
+        "name": "English Housing Survey",
+        "description": "An official government website providing statistical data from the English Housing Survey on housing circumstances, conditions, and ownership in England.",
+        "type": "government website",
+        "link": "https://www.ethnicity-facts-figures.service.gov.uk/housing/owning-and-renting/home-ownership/latest",
+        "summary": "Offers official statistics on household home ownership rates in England, including breakdowns by ethnic group, available for download."
+    },
+    {
+        "name": "Statista",
+        "description": "A global data and business intelligence platform offering extensive market insights, industry forecasts, company rankings, and consumer trends across numerous sectors and countries.",
+        "type": "international database",
+        "link": "https://www.statista.com/statistics/889792/united-kingdom-uk-bank-base-rate/",
+        "summary": "Statista is a subscription-based international database providing detailed data, analysis, and reports on a wide range of topics, including economic indicators, industry trends, and country-specific key figures, to support research and strategic decision-making."
+    },
+    {
+        "name": "Numbeo",
+        "description": "A crowdsourced international database detailing cost of living expenses and property prices in cities across the United Kingdom.",
+        "type": "international database",
+        "link": "https://www.numbeo.com/cost-of-living/country_result.jsp?country=United+Kingdom",
+        "summary": "Numbeo provides extensive cost of living data for the UK, covering average prices for various goods, services, transportation, utilities, rent, and property purchase prices for numerous cities. It also includes average salaries and comparative indices for different UK cities."
+    },
+    {
+        "name": "UK Government Data Portal",
+        "description": "A government website providing access to official data and analysis, specifically mentioning Census 2021 information and offering guidance on Freedom of Information requests.",
+        "type": "government website",
+        "link": "https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/medianhouseholdincomebylocalauthority",
+        "summary": "This government website offers access to official data, including content from Census 2021. It also supports Freedom of Information requests, though it may not hold all specific data sought by users."
+    },
+    {
+        "name": "Office for National Statistics",
+        "description": "This website provides detailed data and definitions for Gross Disposable Household Income (GDHI) in the United Kingdom, including regional estimates and components of income.",
+        "type": "government website",
+        "link": "https://www.nomisweb.co.uk/datasets/gdhi",
+        "summary": "An official UK government website offering comprehensive statistics and definitions related to Gross Disposable Household Income (GDHI), covering its calculation, components, and regional data for the household sector."
+    },
+    {
+        "name": "Currency News",
+        "description": "Offers news, analysis, and services related to currency exchange rates and international money transfers.",
+        "type": "news outlet",
+        "link": "https://www.currencynews.co.uk/forecast/20250313-42544_pound-and-euro-tracks-the-broader-trend-in-us-dollar-gbp-usd-weakly-bullish.html",
+        "summary": "A UK-based news outlet providing currency forecasts and foreign exchange services, focusing on major currencies like GBP, EUR, and USD."
+    },
+    {
+        "name": "Numbeo",
+        "description": "Numbeo is a user-contributed online database providing a wide range of global data, including cost of living, property prices, crime rates, quality of life, and other socio-economic indicators, aligning with macroeconomic, real estate, and demographic data categories.",
+        "type": "international database",
+        "link": "https://www.numbeo.com/cost-of-living/compare_cities.jsp",
+        "summary": "Numbeo is an international database offering crowd-sourced and curated data on global cost of living, property values, and various socio-economic statistics."
+    },
+    {
+        "name": "Office for National Statistics (ONS)",
+        "description": "A UK government website providing official national statistics, primarily focusing on economic indicators like consumer price inflation.",
+        "type": "government website",
+        "link": "https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/consumerpriceinflation",
+        "summary": "The website extract announces an error in Vehicle Excise Duty (VED) data that overemphasized April 2025 UK consumer price inflation (CPIH, CPI, RPI) by 0.1 percentage points. It states the April figures will not be amended, but accurate data will be used from May 2025. The site also highlights initiatives to improve data accessibility and a personal inflation calculator."
+    },
+    {
+        "name": "Newsquest Media Group",
+        "description": "Provides news and analysis on current events and their economic impact.",
+        "type": "news outlet",
+        "link": "https://www.stourbridgenews.co.uk/news/national/uk-today/19949545.aa-rac-warn-uk-fuel-prices-hit-1-60-per-litre-russia-invades-ukraine/?ref=cprfa",
+        "summary": "Reports on the projected rise in UK petrol prices to record highs, potentially \u00a31.60 per litre, due to Russia's invasion of Ukraine and the surge in Brent crude oil prices, exacerbating the cost of living crisis."
+    },
+    {
+        "name": "Ofgem",
+        "description": "Official website of the UK's energy regulator, providing information on the energy price cap and market regulation.",
+        "type": "regulatory body",
+        "link": "https://www.ofgem.gov.uk/information-consumers/energy-advice-households/energy-price-cap",
+        "summary": "Details the UK energy price cap, including current and future rates, its calculation, and the regulating body's role in protecting consumers. It covers electricity and gas prices for England, Scotland, and Wales."
+    },
+    {
+        "name": "UK Government Housing Statistics Portal",
+        "description": "Provides quarterly and annual statistics on new build dwelling starts and completions across the UK, broken down by country and housing sector, linking to various government publications.",
+        "type": "government website",
+        "link": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/ukhousebuildingdata/overview",
+        "summary": "A government portal consolidating official UK housing supply statistics, particularly on new build dwelling starts and completions, presenting time-series data and cross-referencing reports from devolved administrations."
+    },
+    {
+        "name": "UK National Statistics",
+        "description": "Official source for UK demographic data, including Census 2021 results, population estimates, and migration statistics for various administrative areas.",
+        "type": "government website",
+        "link": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates",
+        "summary": "This government website offers official demographic data for the UK, including Census 2021 results, annual population estimates, migration trends, and detailed breakdowns by age, sex, and geography for England and Wales."
+    }
+]
