@@ -51,7 +51,7 @@ def summarise_and_filter(
             # print("json removed:", result)
         actual_dict = json.loads(result)
 
-        print("Converted Dictionary (from JSON string):")
+        # print("Converted Dictionary (from JSON string):")
         return actual_dict
 
     except json.JSONDecodeError as e:
