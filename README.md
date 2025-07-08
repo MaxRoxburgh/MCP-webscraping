@@ -1,8 +1,8 @@
 # MCP-webscraping
 ---
-**Description:** This package set's up a basic web scrpaing pipline with integrated LLM's for search optimisation and website analysis
+**Description:** This package sets up a basic web scraping pipeline with integrated LLM's for search optimisation and website analysis
 
-**Purpose:** The purpose of this module is to compare hand built tools with integrated MCP
+**Purpose:** The purpose of this module is to compare hand-built tools with integrated MCP
 ---
 
 ## **Module architecture**
@@ -37,5 +37,8 @@ Example output:
 Go get yourself the relevant API keys:
 - Gemini API key:               https://aistudio.google.com/app/apikey
 - Custom Search JSON API key:   https://developers.google.com/custom-search/v1/overview
+
+
+You should add a config.py file and save GEMINI_API_KEY and SEARCH_API_KEY as well as SEARCH_ENGINE_ID which you can set up easily
 
 
