@@ -1,0 +1,590 @@
+[
+    {
+        "name": "Moody's Analytics (Data Buffet)",
+        "description": "Provides an excerpt of the Residential Property Price Index (RPPI) for Cyprus, detailing its methodology, data sources, and coverage of residential properties across key districts.",
+        "type": "international database",
+        "link": "https://www.economy.com/cyprus/house-price-index",
+        "summary": "This extract describes the Cyprus Residential Property Price Index (RPPI) available on Moody's Analytics' Data Buffet, outlining its calculation from bank data and independent surveyors, covering residential properties in Nicosia, Limassol, Larnaca, Paphos, and Famagusta from 2006."
+    },
+    {
+        "name": "Central Bank of Cyprus (CBC)",
+        "description": "Official website of the Central Bank of Cyprus, outlining its establishment, objectives, and functions as the central bank of Cyprus responsible for monetary policy, financial supervision, and economic stability.",
+        "type": "regulatory body",
+        "link": "https://www.centralbank.cy/en/the-bank/general-information-on-the-central-bank-of-cyprus",
+        "summary": "The Central Bank of Cyprus (CBC), established in 1963, is Cyprus's central bank. Its core objectives include maintaining price stability, contributing to the Eurosystem's monetary policy, managing national reserves, supervising financial institutions, and ensuring the stability of the financial system. The CBC also played a crucial role in Cyprus's economic development, EU integration, and adoption of the euro, and is involved in anti-money laundering efforts and financial stability."
+    },
+    {
+        "name": "Unknown Website",
+        "description": "Website content is inaccessible due to a prompt requiring JavaScript and no ad blockers.",
+        "type": "inaccessible website",
+        "link": "https://www.reuters.com/markets/europe/nimble-dynamic-cyprus-economy-may-grow-25-this-year-imf-says-2025-03-28/",
+        "summary": "No content could be extracted or analyzed from this website, as it displayed a technical access message preventing data collection for the specified categories."
+    },
+    {
+        "name": "Cyprus Immigration Permits",
+        "description": "Official criteria for obtaining Cyprus Permanent Residence Permits through investment.",
+        "type": "government website",
+        "link": "https://www.mip.gov.cy/dmmip/md.nsf/immigrationpfi_en/immigrationpfi_en?OpenDocument",
+        "summary": "Outlines the legal framework, investment criteria (minimum \u20ac300,000 in real estate, company capital, or investment funds), and quality criteria for third-country nationals applying for an expedited immigration permit in Cyprus."
+    },
+    {
+        "name": "European Central Bank",
+        "description": "The official website for the European Central Bank, detailing its monetary policy strategy, financial stability efforts, payment systems, euro currency information, and key interest rates for the euro area.",
+        "type": "regulatory body",
+        "link": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html",
+        "summary": "Provides comprehensive data, insights, and analyses on the euro area's monetary policy, economic indicators such as interest rates, and financial stability, from the perspective of its central bank."
+    },
+    {
+        "name": "Housing in Europe \u2013 2024 edition",
+        "description": "A comprehensive report detailing housing characteristics, market trends, and affordability across European Union countries.",
+        "type": "international database",
+        "link": "https://ec.europa.eu/eurostat/web/interactive-publications/housing-2024",
+        "summary": "The document provides statistics on EU housing from 2010 to 2023, covering ownership vs. renting, housing types, size, and quality (overcrowding, warmth). It also details the evolution of house prices, rents, inflation, housing costs, energy efficiency improvements, and environmental impact of households."
+    },
+    {
+        "name": "Consumer Energy Price Tracker (Qery AS)",
+        "description": "A website tracking consumer electricity prices for households across Europe, based on Eurostat data.",
+        "type": "private sector report",
+        "link": "https://qery.no/consumer-energy-prices-in-europe/",
+        "summary": "This website provides an analysis of household electricity prices in Europe using Eurostat data, detailing average prices, country-specific costs (e.g., Germany, Denmark, Ireland having highest prices), trends over time, and the impact of taxes and levies on prices."
+    },
+    {
+        "name": "Cyprus Living and Investment Guide",
+        "description": "A comprehensive guide detailing the cost of living, real estate prices, and general lifestyle expenses in Cyprus, including insights on property investment and residency.",
+        "type": "private sector report",
+        "link": "https://imin-cyprus.com/guide/cyprus-cost-of-living/",
+        "summary": "The document provides a detailed analysis of living costs in Cyprus, covering rent and purchase prices for real estate, utility expenses, food, transportation, education, and healthcare. It highlights rising property prices and demand, opportunities for permanent residence through investment, and comparisons to living costs in the UK and USA. Additionally, it outlines the advantages of living in Cyprus, such as low corporate tax, an English-speaking community, and a low crime rate, and describes key cities for expats."
+    },
+    {
+        "name": "Keep Current",
+        "description": "A platform providing current information on countries, including real estate and economic news, company insights, and market trends from global sources like FT Property and Property Week, along with a real estate blog.",
+        "type": "news outlet",
+        "link": "http://www.researchonrealestate.com/html/Real_Estate_RSS_Feeds.php",
+        "summary": "A global news and information hub focused on real estate and economics, aggregating content from major industry publications and offering a real estate blog."
+    },
+    {
+        "name": "Reddit",
+        "description": "A social media platform where users can engage in discussions and create communities.",
+        "type": "social media forum",
+        "link": "https://www.reddit.com/r/cyprus/comments/11i10ko/rents_seem_very_high_in_cyprus/",
+        "summary": "A user's post inquiring about surprisingly high rental prices in Cyprus, specifically Paphos and Larnaca, with examples, and comparing them to the perceived average local wage."
+    },
+    {
+        "name": "Reddit",
+        "description": "A social media platform where users can form communities, post content, and engage in discussions.",
+        "type": "social media platform",
+        "link": "https://www.reddit.com/r/Edinburgh/comments/wnbj41/best_property_site/",
+        "summary": "An online discussion thread where a user inquires about the Edinburgh property market, noting a lack of new stock on popular property sites (Zoopla, RightMove) and asking about off-market sales or alternative listing platforms."
+    },
+    {
+        "name": "Moody's Analytics",
+        "description": "Provides detailed Consumer Price Index (CPI) and Harmonized Index of Consumer Prices (HICP) data for Cyprus, including breakdown by economic origin, calculation methodology, geographical and population coverage, and monthly updates for inflation analysis.",
+        "type": "international database",
+        "link": "https://www.economy.com/cyprus/consumer-price-index-cpi",
+        "summary": "A resource from Moody's Analytics detailing Cyprus's consumer price index (CPI) and harmonized CPI (HICP) data, used for tracking inflation and economic trends, with monthly updates and methodology specifics."
+    },
+    {
+        "name": "Cyprus Economic Overview",
+        "description": "This website extract provides a comprehensive overview of the economy of Cyprus, covering its history, status as a high-income, service-based economy, key sectors like tourism and shipping, impact of financial crises and historical events, as well as its legal and tax framework for international investment. It also touches on natural resources and trade.",
+        "type": "international database",
+        "link": "https://en.wikipedia.org/wiki/Economy_of_Cyprus",
+        "summary": "Cyprus has a high-income, service-based economy that has recovered from past crises. Its strategic location, business-friendly legal and tax system, and key sectors like tourism, shipping, and professional services attract foreign investment."
+    },
+    {
+        "name": "Numbeo",
+        "description": "A crowd-sourced global database providing consumer prices, property prices, cost of living, and quality of life information for cities and countries.",
+        "type": "international database",
+        "link": "https://www.numbeo.com/cost-of-living/country_result.jsp?country=Cyprus",
+        "summary": "The website extract for Cyprus details various cost of living expenses including restaurant prices, market goods, transportation, utilities, and childcare. It also provides average rent and property purchase prices, average net salary, and mortgage interest rates, comparing Cyprus's cost of living and rent to the United Kingdom."
+    },
+    {
+        "name": "Gender Data Portal",
+        "description": "A database and resource portal focused on sex-disaggregated data and gender statistics, potentially managed by the World Bank.",
+        "type": "international database",
+        "link": "https://genderdata.worldbank.org/en/economies/cyprus",
+        "summary": "This website is a specialized international database focusing on sex-disaggregated data and gender statistics, likely managed by the World Bank. It does not provide information relevant to the real estate market or broader economic and infrastructure indicators as per the required criteria."
+    },
+    {
+        "name": "Pafilia",
+        "description": "A family-owned, 45-year-old, privately owned residential property developer based in Cyprus, also operating in Greece, specializing in world-class properties for personal living and investment.",
+        "type": "real estate developer",
+        "link": "https://www.pafilia.com/",
+        "summary": "Pafilia is the largest privately owned residential developer in Cyprus with 45 years of experience, known for developing high-quality properties like villas and seafront towers. They offer full property management services and have global offices. The company contributes significantly to the Cypriot economy, with real estate and construction accounting for 16% of GVA in 2022, and foreign purchasers making up 41% of transactions. The site also provides economic context on tourism's contribution to Cyprus's GVA and mentions recent projects and events."
+    },
+    {
+        "name": "European Economic Forecast - Cyprus (Spring 2025)",
+        "description": "A macroeconomic forecast report for Cyprus.",
+        "type": "government website",
+        "link": "https://economy-finance.ec.europa.eu/economic-surveillance-eu-economies/cyprus/economic-forecast-cyprus_en",
+        "summary": "This forecast details Cyprus's robust economic growth (3.4% in 2024, projected 3% in 2025, 2.5% in 2026), driven by private consumption and service exports. Inflation is expected to decline to 2% by 2026. The report forecasts continued government budget surpluses and a decreasing debt-to-GDP ratio, projected to fall below 60% by 2025. Unemployment reached a 15-year low of 4.7%. Key risks include global trade disruptions."
+    },
+    {
+        "name": "Henley & Partners",
+        "description": "A private sector firm offering services for the Cyprus Golden Visa program.",
+        "type": "private sector",
+        "link": "https://www.henleyglobal.com/residence-investment/cyprus",
+        "summary": "This website extract details the Cyprus Golden Visa program, outlining the minimum investment of EUR 300,000 in real estate or other approved assets for non-EU nationals. It highlights benefits like residency rights, low cost of living, and potential citizenship, along with key application requirements and contact information for further assistance."
+    },
+    {
+        "name": "Cyprus Demographics Overview",
+        "description": "Provides detailed demographic data for Cyprus, including ethnic populations, island partition, historical population trends, citizenship, languages, and religious adherence.",
+        "type": "international database",
+        "link": "https://en.wikipedia.org/wiki/Demographics_of_Cyprus",
+        "summary": "This extract outlines the demographic composition of Cyprus, detailing the Greek Cypriot and Turkish Cypriot communities and the island's post-1974 partition. It includes population statistics, historical data, immigration figures (notably Turkish settlers in the north), and information on citizenship, languages, and religions, often referencing sources like the UN and CIA World Factbook."
+    },
+    {
+        "name": "Republic of Cyprus, Ministry of Finance, Tax Department",
+        "description": "An informational page from the Cypriot Ministry of Finance, Tax Department explaining how to subscribe to RSS feeds for news updates from the Tax Department and Department of Environment.",
+        "type": "government website",
+        "link": "https://www.mof.gov.cy/mof/tax/taxdep.nsf/rss_en/rss_en?opendocument",
+        "summary": "This website extract is a page from the Republic of Cyprus, Ministry of Finance, Tax Department, detailing how to use RSS feeds to receive news updates from the Tax Department and Department of Environment. It does not directly provide macroeconomic indicators, real estate market data, demographics, or other specific information required by the criteria."
+    },
+    {
+        "name": "Square One",
+        "description": "A real estate investment and property management firm specializing in maximizing rental yields in Cyprus.",
+        "type": "private sector report",
+        "link": "https://www.squareone.com.cy/news/how-clients-investors-can-maximize-their-rental-yields-in-cyprus",
+        "summary": "An extract outlining Square One's services, in partnership with Moving Doors, to help investors optimize rental returns in Cyprus by focusing on strategic locations, effective property management, enhancements, legal/financial guidance, and technology."
+    },
+    {
+        "name": "Central Bank of Cyprus",
+        "description": "Provides official residential property price indices for Cyprus, compiled by the Central Bank of Cyprus's Real Estate Unit using bank valuation data.",
+        "type": "regulatory body",
+        "link": "https://www.centralbank.cy/en/publications/residential-property-price-indices",
+        "summary": "The website publishes quarterly residential property price indices for Cyprus, including historical data, methodology, and annual reviews."
+    },
+    {
+        "name": "Eurofound",
+        "description": "A website providing research and analysis on housing and social conditions in Europe by an agency of the European Union.",
+        "type": "government website",
+        "link": "https://www.eurofound.europa.eu/en/news/2023/homeownership-declines-across-eu-young-adults-find-themselves-locked-out-market",
+        "summary": "The website presents findings from a Eurofound report on housing problems in the EU, detailing declining homeownership, increased reliance on precarious private rentals, and challenges with affordability and adequacy, particularly for young adults. It highlights issues like energy inefficiency and discusses policy implications."
+    },
+    {
+        "name": "Home.cy",
+        "description": "Home.cy is the largest real estate marketplace in Cyprus, offering a vast database of residential properties for sale or rent, including houses, apartments, villas, and land. It also includes commercial.cy for commercial real estate listings.",
+        "type": "real estate portal",
+        "link": "https://home.cy/",
+        "summary": "Home.cy is a comprehensive Cypriot real estate marketplace with mobile apps, facilitating buying and renting residential and commercial properties directly from agents and developers. It offers search tools, alerts, and agent reviews."
+    },
+    {
+        "name": "Euronews Podcasts",
+        "description": "A platform hosting various podcasts and talk shows on European news, economics, technology, and environmental topics.",
+        "type": "news outlet",
+        "link": "https://www.euronews.com/tag/cyprus-economy",
+        "summary": "Offers discussions on European affairs, economic trends, and technology, but does not provide specific real estate market data or detailed investment analysis relevant to the search criteria."
+    },
+    {
+        "name": "Eurostat",
+        "description": "An official European Union statistical database providing comprehensive data and analysis on various socio-economic aspects, including housing conditions and living standards across EU member states.",
+        "type": "international database",
+        "link": "https://ec.europa.eu/eurostat/statistics-explained/index.php/Living_conditions_in_Europe_-_housing",
+        "summary": "This extract presents 2023 EU statistics on housing, detailing overcrowding rates, housing cost burden, ability to afford heating, and dwelling satisfaction. It highlights disparities in ownership and living conditions across EU countries and income groups, based on EU-SILC data."
+    },
+    {
+        "name": "Top 5 Real Estate Agencies in Cyprus Review",
+        "description": "This article reviews the top five real estate agencies in Cyprus, detailing their unique services, specializations, and what sets them apart for various property needs.",
+        "type": "real estate portal",
+        "link": "https://mresidence.com/news/top-5-real-estate-agencies-in-cyprus",
+        "summary": "The content evaluates prominent real estate agencies in Cyprus, including M.Residence, Sotheby\u2019s, Century21, Smart Assets, and DOM Real Estate, highlighting their strengths for different clients such as luxury buyers, investors, and those seeking general property services."
+    },
+    {
+        "name": "Global Citizen Solutions",
+        "description": "A guide for foreign investors on real estate investment returns in Cyprus, covering property types, prices, rental yields, taxes, regulations, and the Cyprus Golden Visa program.",
+        "type": "private sector report",
+        "link": "https://www.globalcitizensolutions.com/returns-on-real-estate-in-cyprus/",
+        "summary": "This website analyzes real estate investment in Cyprus for foreign buyers, providing updated data (Oct 2024) on residential property returns, price increases (e.g., apartments up 13.9% in Q1 2024), and district-specific rental yields. It details property taxes, stamp duty, VAT, and transfer fees, alongside information on pro-tenant laws and the Golden Visa program, promoting Cyprus real estate as a good investment."
+    },
+    {
+        "name": "Scientific Data",
+        "description": "A scientific article describing a dataset of urban accessibility and congestion indicators across European cities.",
+        "type": "international database",
+        "link": "https://www.nature.com/articles/s41597-020-00619-7",
+        "summary": "The website features a 2020 Scientific Data article outlining a dataset that quantifies urban accessibility and congestion for over 300 major European cities. It provides detailed travel time indicators per 500m grid cell, based on TomTom traffic and Eurostat population data, capturing variations over time."
+    },
+    {
+        "name": "Cyprus Real Estate Developer Blog",
+        "description": "A blog providing an overview of top real estate developers in Cyprus.",
+        "type": "private sector report",
+        "link": "https://www.kredium.com/blog/best-real-estate-developers-in-cyprus",
+        "summary": "This blog lists and profiles leading real estate developers in Cyprus, offering insights into their projects and services to guide potential buyers."
+    },
+    {
+        "name": "Statista",
+        "description": "Statista is a platform offering market and industry insights, forecasts, company and consumer data, and socio-political information across various countries and industries, providing reliable data and strategic decision support.",
+        "type": "international database",
+        "link": "https://www.statista.com/statistics/246355/home-ownership-rate-in-europe/",
+        "summary": "Statista is an international data and business intelligence platform providing reports, forecasts, and statistics across numerous industries, countries, and socio-economic topics to support research and strategic decision-making."
+    },
+    {
+        "name": "Central Bank of Cyprus (CBC)",
+        "description": "Official website of the Central Bank of Cyprus, established in 1963, providing information on its legal framework, economic concepts, and Euro Area statistics.",
+        "type": "regulatory body",
+        "link": "https://www.centralbank.cy/",
+        "summary": "This website belongs to the Central Bank of Cyprus, a regulatory body. It offers information on macroeconomic indicators through Euro Area statistics and economic concepts, along with details on banking regulations and risk. However, it does not provide specific real estate market data, demographics, real estate industry details, or infrastructure costs relevant to the initial search criteria."
+    },
+    {
+        "name": "Statistical Service of the Republic of Cyprus",
+        "description": "An official government website providing statistical figures and economic data for Cyprus.",
+        "type": "government website",
+        "link": "https://www.centralbank.cy/en/statistics/economic-indicators",
+        "summary": "This is an official government website for the Statistical Service of the Republic of Cyprus, which provides economic and statistical figures. The extract also references the Central Bank of Cyprus, but the content itself is very outdated (2011)."
+    },
+    {
+        "name": "Business News Portal",
+        "description": "A web portal providing news and updates on economic, political, and financial topics.",
+        "type": "news outlet",
+        "link": "https://m.economictimes.com/news/newsblogs/news/newsblogs/air-india-crash-ai171-breaking-news-india-modi-live-updates-raja-sonam-raghuvanshi-meghalaya-murder-los-angeles-protest-trump-russia-ukraine-gaza-war-june-15/liveblog/liveblog/121858735.cms",
+        "summary": "The extract features economic news, political statements, and offers links to business-related content like market data and company information, along with user comment sections."
+    },
+    {
+        "name": "White House Office of the Press Secretary",
+        "description": "Transcript of a press conference between President Bush and Prime Minister Erdogan.",
+        "type": "government website",
+        "link": "https://georgewbush-whitehouse.archives.gov/news/releases/2006/10/20061002-5.html",
+        "summary": "A 2006 press conference transcript between President Bush and Prime Minister Erdogan discussing international relations, counter-terrorism, Middle East stability, Turkey's economic reforms, EU accession, and the Darfur crisis."
+    },
+    {
+        "name": "CYSTAT",
+        "description": "Provides official macroeconomic statistics, primarily focused on inflation, Consumer Price Index (CPI), and Harmonised Consumer Price Index (HICP) for Cyprus and the EU.",
+        "type": "government website",
+        "link": "https://www.cystat.gov.cy/en/StaticPage?id=1202",
+        "summary": "An official government website offering statistics, methodological information, and results for the National Consumer Price Index (CPI) and Harmonised Consumer Price Index (HICP), crucial for understanding inflation and economic performance in Cyprus and the EU."
+    },
+    {
+        "name": "The 2024 Global Traffic Scorecard",
+        "description": "Provides comprehensive transportation data, including travel delay comparisons, costs of congestion, and commuting trends for over 900 cities worldwide. It analyzes vehicular traffic, fuel costs, and the growing use of shared mobility and micromobility, offering insights into urban mobility patterns.",
+        "type": "private sector report",
+        "link": "https://inrix.com/scorecard/",
+        "summary": "The 2024 Global Traffic Scorecard is a detailed analysis of global traffic congestion and mobility trends. It presents data on travel delays, economic costs of congestion, and commuting patterns across more than 900 cities, highlighting changes in travel behavior post-pandemic and the rise of shared mobility options."
+    },
+    {
+        "name": "Republic of Cyprus, Ministry of Finance, Tax Department",
+        "description": "Official government website for the Republic of Cyprus's Ministry of Finance, Tax Department.",
+        "type": "government website",
+        "link": "https://www.mof.gov.cy/mof/tax/taxdep.nsf/page24_en/page24_en?opendocument",
+        "summary": "Provides official notifications and data, such as inflation information, from the Republic of Cyprus's Ministry of Finance."
+    },
+    {
+        "name": "HERE",
+        "description": "A website providing analysis and insights on urban mobility and traffic data.",
+        "type": "private sector report",
+        "link": "https://www.here.com/learn/blog/covid-19-traffic-congestion-map",
+        "summary": "The extract details traffic congestion in major European cities (Paris, Berlin, London, Madrid) from July to November 2020, analyzing the impact of COVID-19 lockdowns and population movement, and highlighting the use of such data for urban planning."
+    },
+    {
+        "name": "Eurostat",
+        "description": "An article presenting regional population projections for 31 European countries (EU-27 + EFTA) up to 2050, based on Eurostat data and NUTS level 3 classification.",
+        "type": "international database",
+        "link": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Population_projections_at_regional_level",
+        "summary": "Analysis of Eurostat's EUROPOP2019 projections, indicating that two-thirds of EU+ regions will experience population decline by 2050, with a significant increase in median age. Urban areas are projected to grow, while rural areas decline, and capital cities generally show population growth."
+    },
+    {
+        "name": "World Heritage Centre",
+        "description": "The World Heritage Centre is dedicated to the protection and preservation of cultural and natural World Heritage sites globally.",
+        "type": "international database",
+        "link": "https://whc.unesco.org/en/list/",
+        "summary": "This website contains information about World Heritage sites, their historical changes, management plans, ownership details for specific sites, and general statistics related to the World Heritage List. It focuses on the preservation and documentation of designated heritage properties, not on general real estate market data or investment."
+    },
+    {
+        "name": "AGPLAW",
+        "description": "A legal guide for real estate transactions in Cyprus, detailing laws, processes, and taxes for buyers and sellers.",
+        "type": "private sector report",
+        "link": "https://www.lexology.com/library/detail.aspx?g=72557035-e504-4337-b366-8143b3fb0e02",
+        "summary": "The website provides an in-depth legal guide to Cyprus real estate, covering property laws, contract law, due diligence, transfer processes, and taxes for local and international buyers and sellers. It also discusses financing options and the permanent residency program."
+    },
+    {
+        "name": "Wikipedia",
+        "description": "An encyclopedic page providing a general overview of Cyprus, covering its geography, history, political landscape, and high-level economic status.",
+        "type": "international database",
+        "link": "https://en.wikipedia.org/wiki/Cyprus",
+        "summary": "The content provides historical and geographical details about Cyprus, mentions its economic status, and demographic shifts, but lacks specific real estate market data, detailed macroeconomic indicators, infrastructure costs, or regulations pertinent to property investment."
+    },
+    {
+        "name": "Lexology",
+        "description": "A platform offering legal news, insights, and analysis from various law firms on global legal developments.",
+        "type": "news outlet",
+        "link": "https://www.lexology.com/library/detail.aspx?g=4943e1f4-f543-4406-90ed-716d376c072d",
+        "summary": "This website hosts articles and guides on legal topics, including detailed analyses of property acquisition laws and foreign investment regulations in Cyprus, authored by law firms like AGPLAW."
+    },
+    {
+        "name": "U.S. Census Bureau & Bureau of Economic Analysis (BEA)",
+        "description": "Provides official U.S. government economic data and analysis on international trade in goods and services.",
+        "type": "government website",
+        "link": "https://www.bea.gov/news/2025/us-international-trade-goods-and-services-december-and-annual-2024",
+        "summary": "Reports on U.S. international trade in goods and services, detailing December and 2024 deficits, exports, and imports, along with data revisions and methodological explanations."
+    },
+    {
+        "name": "European Central Bank",
+        "description": "A website providing Harmonised Index of Consumer Prices (HICP) inflation data for Cyprus and the Euro area, including historical trends and future projections.",
+        "type": "international database",
+        "link": "https://data.ecb.europa.eu/data/datasets/ICP/ICP.M.CY.N.000000.4.ANR",
+        "summary": "An official source offering HICP inflation rates for Cyprus and the Euro area, with data spanning from 1997 to 2025, and features for data comparison and personalized dashboards."
+    },
+    {
+        "name": "European Systemic Risk Board (ESRB)",
+        "description": "Assesses vulnerabilities in residential real estate across European Economic Area (EEA) countries for financial and macroeconomic stability.",
+        "type": "regulatory body",
+        "link": "https://www.esrb.europa.eu/news/pr/date/2024/html/esrb.pr240201~2abae96aef.en.html",
+        "summary": "ESRB's follow-up report on residential real estate (RRE) vulnerabilities in EEA countries. It notes persistent accumulated risks, decelerated cyclical risk growth, and evaluates macroprudential policy responses and future market scenarios for financial stability."
+    },
+    {
+        "name": "Cyprus Living and Rental Information",
+        "description": "Provides detailed insights into average rental prices across various Cypriot cities and property types, along with comprehensive data on essential living expenses like utilities and transportation.",
+        "type": "real estate portal",
+        "link": "https://aparthotel.com/analyze/cyprus/average-rent-in-cyprus/",
+        "summary": "This resource offers current rental rates for one-bedroom and three-bedroom apartments in Nicosia, Limassol, and Larnaca, differentiating between city center and outskirts. It also details average monthly costs for utilities (\u20ac230) and transportation, noting factors influencing rent such as location, tourism, and expatriate demand. It mentions the rental market size (\u20ac201.8M by 2025) and advises on security deposits and the Rent Control Law."
+    },
+    {
+        "name": "PwC",
+        "description": "Offers professional services and published reports on global real estate trends and investment strategies.",
+        "type": "private sector report",
+        "link": "https://www.pwc.com/us/en/industries/financial-services/asset-wealth-management/real-estate/emerging-trends-in-real-estate.html",
+        "summary": "This extract from a PwC report details emerging trends in real estate investment, covering economic factors like interest rates, market dynamics, top-performing cities, and strategic advice for real estate professionals."
+    },
+    {
+        "name": "Livingcost.org",
+        "description": "A crowdsourced database and cost of living calculator for price comparisons across cities and countries worldwide.",
+        "type": "international database",
+        "link": "https://livingcost.org/cost/cyprus/united-states",
+        "summary": "Livingcost.org compares the average cost of living and after-tax salaries between countries like Cyprus and the United States, based on a crowdsourced database of prices from thousands of cities globally."
+    },
+    {
+        "name": "FocusEconomics",
+        "description": "A platform offering economic reports, data, and consensus forecasts for various economies and commodities based on expert analysis.",
+        "type": "international database",
+        "link": "https://www.focus-economics.com/countries/cyprus/",
+        "summary": "Provides data, forecasts, and analysis on economic indicators and sectors for numerous countries, aiding business decisions."
+    },
+    {
+        "name": "Bank of Cyprus",
+        "description": "Provides various banking base rates, including a specific housing base rate, along with financial service disclaimers.",
+        "type": "private sector report",
+        "link": "https://www.bankofcyprus.com/en-gb/Personal/the-bank/other/--/",
+        "summary": "The website excerpt details current and upcoming base interest rates from a bank, including a specific housing base rate, and contains a disclaimer regarding service availability in the United Kingdom."
+    },
+    {
+        "name": "European Environment Agency (EEA)",
+        "description": "Official website of the European Environment Agency, an EU body.",
+        "type": "regulatory body",
+        "link": "https://www.eea.europa.eu/articles/noise-pollution-is-a-major",
+        "summary": "An article discussing the significant health impacts of environmental noise pollution, particularly from road traffic, across Europe, and the challenges in achieving policy objectives for noise reduction due to urban growth and increased mobility."
+    },
+    {
+        "name": "International Monetary Fund",
+        "description": "An international organization fostering global monetary cooperation, financial stability, and sustainable economic growth.",
+        "type": "international database",
+        "link": "https://www.imf.org/external/datamapper/PCPIPCH@WEO/OEMDC/ADVEC/WEOWORLD",
+        "summary": "The International Monetary Fund (IMF) website provides comprehensive macroeconomic indicators, financial stability reports, economic forecasts, and analysis relevant to global economic conditions and investment risks. It is a primary source for data on GDP, inflation, interest rates, and exchange rates, although it does not directly cover specific real estate market data, property listings, or detailed local infrastructure costs."
+    },
+    {
+        "name": "Redfin.com",
+        "description": "Redfin is a real estate brokerage that combines a full-service real estate agency with an online property listing and data platform.",
+        "type": "real estate portal",
+        "link": "https://www.redfin.com/",
+        "summary": "Redfin.com primarily serves as an online real estate portal providing property listings, market data, and services for buying and selling homes. It offers information relevant to real estate market data, property ownership, and direct access to real estate agents and listings, aligning with several specified categories."
+    },
+    {
+        "name": "Cost of Living Comparison",
+        "description": "A website providing comparative cost of living data between the United States and Cyprus, with the option to select specific cities for detailed comparison.",
+        "type": "international database",
+        "link": "https://www.numbeo.com/cost-of-living/compare_countries_result.jsp?country1=United+States&country2=Cyprus",
+        "summary": "Compares cost of living across countries and cities, relevant for demographic data."
+    },
+    {
+        "name": "Moody's",
+        "description": "A global provider of credit ratings, financial insights, risk management solutions, and extensive economic and market data.",
+        "type": "Financial Intelligence Provider",
+        "link": "https://www.moodys.com/",
+        "summary": "Moody's offers data-driven solutions and expert analysis on credit markets, economic trends, and various risks, including commercial real estate. It provides macroeconomic data, investment research, and insights into current events affecting global credit markets to help clients make informed financial decisions."
+    },
+    {
+        "name": "Themis Portfolio Management Limited",
+        "description": "Provides detailed information on various interbank and commercial bank interest rates relevant for Euro credit facilities.",
+        "type": "financial services provider",
+        "link": "https://www.themisportfoliomanagement.com/rates",
+        "summary": "This extract outlines the Euro Interbank Offered Rate (EURIBOR), the European Central Bank Base Rate (ECB Base Rate), and specific base rates from Bank of Cyprus and Hellenic Bank. It defines these interest rates, details their calculation methodologies, and indicates where current and historical rates can be found."
+    },
+    {
+        "name": "Cyprus Profile",
+        "description": "A business directory for Cyprus, featuring prominent real estate and property development companies.",
+        "type": "Business Directory",
+        "link": "https://www.cyprusprofile.com/category/property-developers",
+        "summary": "This website serves as a directory of leading real estate developers and property development companies operating in Cyprus."
+    },
+    {
+        "name": "Cyprus Profile (EU)",
+        "description": "An official overview of Cyprus as an EU member state, detailing its key facts, economy, and participation in EU institutions.",
+        "type": "government website",
+        "link": "https://european-union.europa.eu/principles-countries-history/eu-countries/cyprus_en",
+        "summary": "This document provides core information on Cyprus, including its demographics, economic indicators like GDP, and comprehensive details on its representation and interaction with the European Union's governmental and financial frameworks."
+    },
+    {
+        "name": "Reddit",
+        "description": "A social media platform and online forum where users can post questions and engage in discussions.",
+        "type": "social media platform",
+        "link": "https://www.reddit.com/r/cyprus/comments/mqfoyo/real_estate_agency_in_limassol/",
+        "summary": "An extract from Reddit showing a user seeking recommendations for a trustworthy real estate agency in Limassol for apartment rentals and neighborhood comparisons, mentioning 'Fox Realty' and alternatives."
+    },
+    {
+        "name": "European Central Bank",
+        "description": "Provides information on monetary policy, financial stability, payments, market infrastructures, ECB statistics, the common currency, and in-depth studies.",
+        "type": "regulatory body",
+        "link": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.en.html",
+        "summary": "Official website of the European Central Bank, offering data, analysis, and information on monetary policy, financial stability, and the euro."
+    },
+    {
+        "name": "Eurostat",
+        "description": "Provides comprehensive statistical data and interactive publications on housing conditions, market trends, and affordability across European Union Member States.",
+        "type": "international database",
+        "link": "https://ec.europa.eu/eurostat/web/interactive-publications/housing-2023",
+        "summary": "The website extract details statistical data on various aspects of housing in EU Member States, including ownership and rental rates, dwelling types (house vs. flat), housing size and quality (e.g., overcrowding, under-occupation, amenities), affordability (housing costs vs. disposable income), and the evolution of house prices and rents from 2010 to 2022. It also includes data on inflation, construction producer prices, and household greenhouse gas emissions."
+    },
+    {
+        "name": "PRIO.org",
+        "description": "Website of the Peace Research Institute Oslo, providing research and reports on peace and conflict studies.",
+        "type": "think tank",
+        "link": "https://www.prio.org/publications/5633",
+        "summary": "The excerpt details a 2012 PRIO report on the complex Turkish Cypriot legal framework and property regimes in Northern Cyprus concerning displaced persons and immovable properties since 1974, highlighting their incompatibility with international law and the Greek Cypriot system."
+    },
+    {
+        "name": "Lawyers in Cyprus",
+        "description": "A legal portal providing insights and guidance on Cyprus law.",
+        "type": "legal portal",
+        "link": "https://www.lawyersincyprus.com/news/articles/cyprus-property-law-comprehensive-legal-services-for-property-transactions-and-disputes",
+        "summary": "Offers legal insights and guidance on real estate, tax, and business law in Cyprus, with some market overview."
+    },
+    {
+        "name": "European Central Bank (ECB)",
+        "description": "Provides insights into monetary policy, financial stability, payments, market infrastructures, statistics, and economic analysis for the euro area.",
+        "type": "regulatory body",
+        "link": "https://www.ecb.europa.eu/press/projections/html/ecb.projections202503_ecbstaff~106050a4fa.en.html",
+        "summary": "An economic projection report from the European Central Bank (ECB) for the euro area, detailing forecasts for real GDP growth, inflation, interest rates, and the impact of geopolitical and trade policy uncertainty for 2024-2027."
+    },
+    {
+        "name": "Republic of Cyprus Official Warning",
+        "description": "An official warning to foreign citizens about the legal risks associated with purchasing properties in the Turkish-occupied northern part of Cyprus.",
+        "type": "government website",
+        "link": "http://www.mfa.gov.cy/mfa/Embassies/embassy_thehague.nsf/ecsw19_en/ecsw19_en?OpenDocument",
+        "summary": "This website details the illegality of property sales in Turkish-occupied Northern Cyprus, highlighting that original Greek Cypriot owners retain legal title. It references international court judgments upholding these rights and advises foreign buyers of the significant legal and criminal risks involved in such transactions."
+    },
+    {
+        "name": "International Country Factbook",
+        "description": "A database offering country-specific data and global comparison rankings for various indicators.",
+        "type": "international database",
+        "link": "https://www.cia.gov/the-world-factbook/countries/cyprus/",
+        "summary": "This site compiles statistical information and comparative rankings across a wide range of country-level data, including demographics, economic indicators, and infrastructure metrics, presented in a fact sheet format for international comparison."
+    },
+    {
+        "name": "Unknown Website",
+        "description": "Website content is inaccessible due to a prompt requiring JavaScript and no ad blockers.",
+        "type": "inaccessible website",
+        "link": "https://www.idealista.com/en/",
+        "summary": "No content could be extracted or analyzed from this website, as it displayed a technical access message preventing data collection for the specified categories."
+    },
+    {
+        "name": "M.Residence",
+        "description": "M.Residence is a modern real estate agency in Cyprus, offering property listings, comprehensive services for buyers, sellers, tenants, and landlords, and an innovative mobile app for instant viewings and agent connections.",
+        "type": "real estate portal",
+        "link": "https://mresidence.com/",
+        "summary": "M.Residence is a leading Cypriot real estate agency that utilizes technology, including a mobile app, to provide property sales and rental services. It focuses on connecting clients with licensed agents and offering a wide range of properties."
+    },
+    {
+        "name": "Wikipedia (Languages of Cyprus)",
+        "description": "Provides detailed information about the official, minority, and historical languages spoken in Cyprus, including their origins, usage, and proficiency rates.",
+        "type": "international database",
+        "link": "https://en.wikipedia.org/wiki/Languages_of_Cyprus",
+        "summary": "The extract describes the linguistic diversity of Cyprus, detailing the prevalence of Greek and Turkish as official languages, the status of minority languages like Armenian and Cypriot Arabic, and the high proficiency in English among the population."
+    },
+    {
+        "name": "INVESTROPA",
+        "description": "A guide providing in-depth analysis and insights for investing in real estate in Cyprus, aimed at helping buyers avoid pitfalls and make informed long-term investments.",
+        "type": "private sector report",
+        "link": "https://investropa.com/blogs/news/cyprus-real-estate-trends",
+        "summary": "The guide, updated to February 2025, details Cyprus's real estate market, including a significant jump in 2023 transactions driven by foreign buyers, rising property prices due to supply shortages, and increasing rental yields in tourist hotspots. It also covers the growing agritourism sector and the appeal of Cyprus to Asian investors due to stable economic conditions and strategic location."
+    },
+    {
+        "name": "EC-INSPIRE: Spatial Data Infrastructures in Europe: State of play Spring 2011 Cyprus K.U.Leuven (SADL)",
+        "description": "An academic report detailing Cyprus's legal framework and policies for spatial and land data, including land ownership laws, access to public sector information, intellectual property rights, and data privacy, in compliance with European directives.",
+        "type": "think tank",
+        "link": "https://ggim.un.org/knowledgebase/KnowledgebaseArticle51524.aspx",
+        "summary": "A report analyzing Cyprus's legal and policy landscape for spatial data, outlining regulations on access, privacy, and intellectual property in relation to EU directives like INSPIRE."
+    },
+    {
+        "name": "Gilbane",
+        "description": "One of the largest privately held and family-owned construction and real estate development firms, offering construction, facilities management, real estate development, property management, and consulting services globally.",
+        "type": "private sector company website",
+        "link": "https://www.gilbaneco.com/",
+        "summary": "This website extract provides an overview of Gilbane, a long-standing, global private sector firm specializing in construction and real estate development and management services."
+    },
+    {
+        "name": "FRED (Federal Reserve Bank of St. Louis)",
+        "description": "A platform offering tools and resources for worldwide economic, financial, and banking data, including historical series and specific property price indices.",
+        "type": "international database",
+        "link": "https://fred.stlouisfed.org/series/QCYN628BIS",
+        "summary": "This website, part of the Federal Reserve Bank of St. Louis, provides access to extensive economic data, including quarterly residential property price indices for various countries, sourced from international bodies like the Bank for International Settlements."
+    },
+    {
+        "name": "TomTom Traffic Index",
+        "description": "A global platform providing traffic data, congestion levels, travel times, and mobility analytics for 501 cities across 62 countries.",
+        "type": "international database",
+        "link": "https://www.tomtom.com/traffic-index/ranking/",
+        "summary": "Offers comprehensive global traffic data and analytical tools for drivers, city planners, and policymakers to manage and improve urban mobility."
+    },
+    {
+        "name": "European Commission / Eurostat",
+        "description": "Provides detailed statistics and analysis on natural gas prices for household and non-household consumers across the European Union and selected non-EU countries.",
+        "type": "government website",
+        "link": "https://ec.europa.eu/eurostat/statistics-explained/index.php/Natural_gas_price_statistics",
+        "summary": "The article details natural gas price trends for EU and select non-EU countries from 2008 to late 2024, distinguishing between household and non-household consumers. It highlights price variations, the impact of taxes, and year-on-year changes, noting Sweden and Hungary as having the highest and lowest household prices, respectively, in late 2024."
+    },
+    {
+        "name": "EUROSTAT - National Accounts Statistics",
+        "description": "Official statistical data and methodologies for national accounts provided by the European Union's statistical office.",
+        "type": "international database",
+        "link": "https://www.cystat.gov.cy/en/SubthemeStatistics?s=45",
+        "summary": "This website extract indicates it's a source for national accounts statistics, including methodological and quality reports, from EUROSTAT, the statistical office of the European Union. It provides macroeconomic indicators and related data."
+    },
+    {
+        "name": "Pew Research Center",
+        "description": "Provides research and demographic analysis on global trends, including population growth and religious group demographics.",
+        "type": "think tank",
+        "link": "https://www.pewresearch.org/religion/2017/11/29/europes-growing-muslim-population/",
+        "summary": "The extract details projections for Europe's Muslim population by 2050 under various migration scenarios, analyzing the impact of age, fertility, and migration levels on demographic shifts across European countries."
+    },
+    {
+        "name": "European Commission",
+        "description": "A website providing detailed statistical data and analysis on economic indicators, specifically focusing on electricity prices.",
+        "type": "government website",
+        "link": "https://ec.europa.eu/eurostat/statistics-explained/index.php/Electricity_price_statistics",
+        "summary": "The extracted article provides in-depth analysis of electricity prices for household and non-household consumers across the EU and select non-EU countries in 2024, including price trends, taxes, network costs, and country-specific variations."
+    },
+    {
+        "name": "Bank of Cyprus Interest Rate Information",
+        "description": "This page provides detailed definitions and calculation methodologies for key interest rates, including EURIBOR, the ECB Base Rate, and Bank of Cyprus's internal base rates (BBR, BBBR, BHBR), which are applied to credit facilities and loans.",
+        "type": "private sector report",
+        "link": "https://www.bankofcyprus.com/en-gb/Personal/the-bank/other/epitokia-anaphorasnew/",
+        "summary": "Explains how various interbank and central bank interest rates, along with Bank of Cyprus's own base rates, are calculated and applied to credit facilities and loans."
+    },
+    {
+        "name": "Numbeo",
+        "description": "A platform providing detailed comparative data on cost of living, property prices, and various economic indicators between countries and cities worldwide.",
+        "type": "international database",
+        "link": "https://www.numbeo.com/cost-of-living/compare_countries_result.jsp?country1=Cyprus&country2=Philippines",
+        "summary": "Numbeo offers comprehensive comparative data on cost of living, property prices, and quality of life metrics for different cities and countries, allowing users to compare expenses across various categories like housing, food, transportation, and salaries."
+    },
+    {
+        "name": "International Consortium of Investigative Journalists (ICIJ)",
+        "description": "An organization focused on investigative journalism, exposing illicit financial activities and global corruption.",
+        "type": "news outlet",
+        "link": "https://www.icij.org/investigations/pandora-papers/us-takes-aim-at-real-estate-money-laundering/",
+        "summary": "The article discusses a proposed FinCEN rule to combat money laundering in the U.S. residential real estate market by requiring reporting on all-cash purchases made through trusts and secretive entities. This aims to close loopholes exploited by criminals and unscrupulous investors."
+    },
+    {
+        "name": "Chris Michael Properties",
+        "description": "A website offering comprehensive information on real estate investment opportunities in Cyprus.",
+        "type": "real estate portal",
+        "link": "https://www.developerscyprus.com/guides/cyprus-property-investment/",
+        "summary": "This website provides detailed information on Cyprus's real estate market, including current and historical property prices for apartments and houses, rental yields across different districts, and market trends. It also outlines the requirements and benefits of obtaining permanent residency and citizenship through property investment, along with foreign ownership regulations."
+    }
+]
